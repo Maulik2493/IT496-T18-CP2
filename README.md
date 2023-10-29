@@ -1,5 +1,12 @@
 # IT496-T18-CP2
 
+# DOPE-a-MINE(Team-18)
+- Maulik Thakkar (202101415)
+- Maharshi Pipaliya (202101210)
+- Sameer Sonara (202101489)
+- Harshil Patel (202101019)
+- Kunj Kapadiya (202103018)
+
 # Introduction
 This dataset provides valuable insights into the world of books available on a book depository, encompassing a wealth of information, including titles, descriptions, unique identifiers, publication details, and a variety of attributes related to their physical characteristics. One of the significant attributes is the format of these books, which often influences their handling, shipping, and reader experience. The format may range from hardcover to paperback, e-books, and other variants, each tailored to meet different reader preferences and industry demands.
 
@@ -68,3 +75,13 @@ For the classification problem , we used three different classification algorith
   - Logistic Regression      : 78.12 %
   - Decision Tree            : 88.75 %
   - Random Forest Classifier : 90.03 %
+
+#References :
+- Terminlogies and understanding of the dataset : https://www.kaggle.com/datasets/sp1thas/book-depository-dataset
+- Model classification and optimization : https://scikit-learn.org/stable/supervised_learning.html
+  
+
+# Acknowledgements :
+We would like to express our sincere gratitude and appreciation to the Prof. Arpit Rana for his invaluable support and contributions to this project, and that to Vipasha Vaghela, Himanshu Beniwal and Aksh Patel.
+
+
